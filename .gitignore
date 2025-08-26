@@ -1,0 +1,12 @@
+# .gitignore для Swift проекта
+.DS_Store
+.build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+build/
+*.ipa
